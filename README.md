@@ -12,4 +12,6 @@
 ![TERRAFORM](https://img.shields.io/badge/-TERRAFORM-000000?style=plastic&logo=terraform&logoColor=eaed0b)
 ![python](https://img.shields.io/badge/-PYTHON-000000?style=plastic&logo=python&logoColor=eaed0b)
 
-Contact me
+### Contact me
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=plastic&logo=telegram&logoColor=eaed0b)](https://t.me/anton_nevero)
+[![TELEGRAM](https://img.shields.io/badge/-EMAIL-000000?style=plastic&logo=gmail&logoColor=eaed0b)](nevero.anton@gmail.com)
