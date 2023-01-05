@@ -14,4 +14,4 @@
 
 ### Contact me
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-000000?style=plastic&logo=telegram&logoColor=eaed0b)](https://t.me/anton_nevero)
-[![TELEGRAM](https://img.shields.io/badge/-EMAIL-000000?style=plastic&logo=gmail&logoColor=eaed0b)](nevero.anton@gmail.com)
+[![TELEGRAM](https://img.shields.io/badge/-EMAIL-000000?style=plastic&logo=gmail&logoColor=eaed0b)](mailto:nevero.anton@gmail.com)
